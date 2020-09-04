@@ -11,11 +11,11 @@ dynamic_requires = []
 version = 0.1
 
 setup(
-    name='mipow',
+    name='shy',
     version=0.3,
-    author='Arttu Mahlakaarto',
-    author_email='Arttu.mahlakaarto@gmail.com',
-    url='http://github.com/amahlaka/python-mipow',
+    author='Ross Reedstrom',
+    author_email='ross@reedstrom.org'
+    url='http://github.com/reedstrm/python-shy',
     packages=find_packages(),
     download_url='https://github.com/amahlaka/python-mipow/tarball/0.1',
     scripts=[],
